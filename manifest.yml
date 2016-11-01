@@ -1,0 +1,6 @@
+---
+applications:
+- name: job-service
+  memory: 512M
+  path: target/job-service-0.0.1-SNAPSHOT.jar 
+
